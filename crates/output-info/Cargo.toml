@@ -1,0 +1,15 @@
+[package]
+name = "package-sphinx-output-info"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "Information about output streams (standard output and error)"
+readme.workspace = true
+homepage.workspace = true
+repository.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+terminal_size.workspace = true
